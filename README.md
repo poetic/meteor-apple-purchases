@@ -20,8 +20,11 @@ If you miss ANY of these steps then your products array will come back empty ple
 
 # Installation
 
-Add the cordova plugin
+Add the cordova plugin Meteor 1.2 and Below: 
 `meteor add cordova:cc.fovea.cordova.purchase@https://github.com/j3k0/cordova-plugin-purchase.git#3bd13373f6dd0d54128554a8458b4043fbefe45f`
+
+Meteor 1.3
+`meteor add cordova:cc.fovea.cordova.purchase@https://github.com/mlmassey/cordova-plugin-purchase.git#cfbb0ca93032275d1f3e79b72be9f2c7c397b093`
 
 Add the meteor package
 `meteor add poetic:meteor-apple-purchasing`
